@@ -1,0 +1,26 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="FlockulatorTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- General Colors -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:colorBackground">@color/colorPrimaryDark</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <!-- Text -->
+        <item name="android:textColorPrimary">@color/colorWhite</item>
+        <item name="android:textColorPrimaryInverse">@color/colorGray</item>
+        <item name="android:textColorHint">@color/colorGray</item>
+        <item name="android:textColorSecondary">@color/colorAccentSecondary</item>
+        <item name="android:textColorSecondaryInverse">@color/colorGray</item>
+        <item name="android:textColorTertiary">@color/colorAccentSecondary</item>
+        <!-- EditText -->
+        <!--<item name="android:editTextColor">@color/colorWhite</item>-->
+        <!--Button-->
+        <item name="android:colorButtonNormal">@color/colorAccent</item>
+
+    </style>
+
+</resources>
