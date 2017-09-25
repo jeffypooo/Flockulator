@@ -21,7 +21,7 @@
         </activity>
         <activity android:name=".onboard.authorize.AuthorizeActivity">
         </activity>
-        <activity android:name=".main.RootActivity">
+        <activity android:name=".main.stream.RootActivity">
         </activity>
     </application>
 
